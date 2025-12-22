@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MagneticMemory V5 Dashboard",
+  "description": "An empirical AI Studio dashboard for visualizing and managing the MagneticMemory V5 neural architecture, featuring live training metrics, memory domain heatmaps, and quantum feature analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
